@@ -1,9 +1,11 @@
-People
+Organization
 =====
 
-A list of people who work on free / open source software, either as designers or programmers.
+The repository for talking about everything organizationally for opensourcedesign. Kind of a bucket for all sorts of discussions at the moment.
 
-### Add Yourself
+### Add Yourself to People
+
+A list of people who work on free / open source software, either as designers or programmers.
 
 Want to add yourself to this list? Do the following:
 
